@@ -1,0 +1,15 @@
+# compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# build artifacts
+*.d
+*.i
+*.s
+
+# editor / OS junk
+*.swp
+.DS_Store
+Thumbs.db
